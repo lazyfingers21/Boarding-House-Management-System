@@ -1,0 +1,72 @@
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe.config
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.pdb
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csprojResolveAssemblyReference.cache
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Properties.Resources.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csproj.GenerateResource.Cache
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.exe
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.pdb
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form1LOGIN.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form2MAIN.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form3CREATEACC.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form4REGISTER.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form6UPDATE_DELETE.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form8PAYMENT.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form5VIEW_UPDATE_INFORMATION_RECORDS.resources
+C:\Users\Alfie C. Adobas\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form7PAYMENTUPDATE.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe.config
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.exe
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.pdb
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.pdb
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csprojResolveAssemblyReference.cache
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form1LOGIN.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form2MAIN.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form3CREATEACC.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form4REGISTER.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form5VIEW_UPDATE_INFORMATION_RECORDS.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form6UPDATE_DELETE.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form7PAYMENTUPDATE.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form8PAYMENT.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Properties.Resources.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csproj.GenerateResource.Cache
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe.config
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.exe
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.pdb
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.pdb
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csprojResolveAssemblyReference.cache
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form1LOGIN.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form2MAIN.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form3CREATEACC.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form4REGISTER.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form5VIEW_UPDATE_INFORMATION_RECORDS.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form6UPDATE_DELETE.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form7PAYMENTUPDATE.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form8PAYMENT.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Properties.Resources.resources
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csproj.GenerateResource.Cache
+C:\Users\Alfie C. Adobas\Desktop\2\bag.o2\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form9VIEWPAYMENTSRECORD.resources
+D:\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe.config
+D:\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.exe
+D:\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.pdb
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe.config
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.exe
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.pdb
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.exe
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\bin\Debug\BOARDING_HOUSE.pdb
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form1LOGIN.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form2MAIN.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form3CREATEACC.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form4REGISTER.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form5VIEW_UPDATE_INFORMATION_RECORDS.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form6UPDATE_DELETE.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form7PAYMENTUPDATE.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form8PAYMENT.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form9VIEWPAYMENTSRECORD.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form10FORGOTPASS.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form11ATTEMPTS.resources
+C:\Users\LENOVO\Desktop\BOARDING_HOUSE\BOARDING_HOUSE\obj\Debug\BOARDING_HOUSE.Form12NOTE.resources
