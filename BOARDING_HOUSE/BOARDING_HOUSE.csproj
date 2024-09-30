@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8C1431D0-BA52-436E-B31D-034F10EE3400}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BOARDING_HOUSE</RootNamespace>
+    <AssemblyName>BOARDING_HOUSE</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form10FORGOTPASS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10FORGOTPASS.Designer.cs">
+      <DependentUpon>Form10FORGOTPASS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11ATTEMPTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11ATTEMPTS.Designer.cs">
+      <DependentUpon>Form11ATTEMPTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12NOTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12NOTE.Designer.cs">
+      <DependentUpon>Form12NOTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1LOGIN.Designer.cs">
+      <DependentUpon>Form1LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2MAIN.Designer.cs">
+      <DependentUpon>Form2MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3CREATEACC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3CREATEACC.Designer.cs">
+      <DependentUpon>Form3CREATEACC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4REGISTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4REGISTER.Designer.cs">
+      <DependentUpon>Form4REGISTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5VIEW_UPDATE_INFORMATION_RECORDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5VIEW_UPDATE_INFORMATION_RECORDS.Designer.cs">
+      <DependentUpon>Form5VIEW_UPDATE_INFORMATION_RECORDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6UPDATE_DELETE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6UPDATE_DELETE.Designer.cs">
+      <DependentUpon>Form6UPDATE_DELETE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7PAYMENTUPDATE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7PAYMENTUPDATE.Designer.cs">
+      <DependentUpon>Form7PAYMENTUPDATE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8PAYMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8PAYMENT.Designer.cs">
+      <DependentUpon>Form8PAYMENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9VIEWPAYMENTSRECORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9VIEWPAYMENTSRECORD.Designer.cs">
+      <DependentUpon>Form9VIEWPAYMENTSRECORD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form10FORGOTPASS.resx">
+      <DependentUpon>Form10FORGOTPASS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11ATTEMPTS.resx">
+      <DependentUpon>Form11ATTEMPTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12NOTE.resx">
+      <DependentUpon>Form12NOTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1LOGIN.resx">
+      <DependentUpon>Form1LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2MAIN.resx">
+      <DependentUpon>Form2MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3CREATEACC.resx">
+      <DependentUpon>Form3CREATEACC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4REGISTER.resx">
+      <DependentUpon>Form4REGISTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5VIEW_UPDATE_INFORMATION_RECORDS.resx">
+      <DependentUpon>Form5VIEW_UPDATE_INFORMATION_RECORDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6UPDATE_DELETE.resx">
+      <DependentUpon>Form6UPDATE_DELETE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7PAYMENTUPDATE.resx">
+      <DependentUpon>Form7PAYMENTUPDATE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8PAYMENT.resx">
+      <DependentUpon>Form8PAYMENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9VIEWPAYMENTSRECORD.resx">
+      <DependentUpon>Form9VIEWPAYMENTSRECORD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-ios7-contact-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\256-256-7b4cce5e74538f5b9a5badf3bc9f408d-key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewSearch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users3_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man_1074208.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create_user_group-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JD-12-2-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-search-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_icon-72a7cf.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-search-2-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-circle-blue-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\like.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glasses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\garbage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
